@@ -1,4 +1,3 @@
-# Air-Quality-Model
 # Air Quality Clustering with K-Means
 
 **ML Theory Assignment – Q1** · Python · Google Colab
